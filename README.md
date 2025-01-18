@@ -23,7 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/VWjyeW6.mp4 title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<video width="600" controls>
+  <source src="https://i.imgur.com/VWjyeW6.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 GIF created with KAP
 
