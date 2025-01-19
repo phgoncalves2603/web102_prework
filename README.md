@@ -23,14 +23,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src='Kapture 2025-01-18 at 18.22.29.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src='Video_walkthrough.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 GIF created with KAP
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest challenge I faced during the development of this app was getting the video to display properly on GitHub.
 
 ## License
 
